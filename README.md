@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IhsanPaloli
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ...making bots
+
 
 
 <!---
